@@ -1,4 +1,4 @@
-MODULO 3 - PROJETO INVIDUAL - STEPHANE - RESPOSTAS
+MODULO 3 - PROJETO INVIDUAL - STEPHANE 
 
 1. Quais são as entidades necessárias?;
 Empresas, Tecnologias, Áreas e Colaboradores.
